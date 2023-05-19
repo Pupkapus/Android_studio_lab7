@@ -11,11 +11,7 @@
 <p align = "center">Лабораторная работа №7</p>
 <p align = "center">«Макет»</p>
 <p align = "center">01.03.02 Прикладная математика и информатика</p>
-
-
-
-
-<br>
+<br><br><br><br><br><br><br><br>
 <p align = "right" >Научный руководитель</p>
 <p align = "right" >Соболев Евгений Игоревич</p>
 <p align = "center" >Южно-Сахалинск</p>
